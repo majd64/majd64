@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently learning back end web dev using Node.js
+- 🔭 I'm currently learning back end web dev w/ Node.js
 
 
 <!--
