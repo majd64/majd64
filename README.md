@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I'm currently learning back end web dev using Node.js
+
 
 <!--
 **majd64/majd64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
