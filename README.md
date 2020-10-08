@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a super secret web app to be launched in November 
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on literally anything! Lemme know if you wanna do something!
-- ⚡ Fun fact: I just got carpal tunnel!
 - 😄 Preferred Stack: Mongoose Express React Node (MERN)
 
 <!--
