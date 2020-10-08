@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on literally anything! Lemme know if you wanna do something!
 - ⚡ Fun fact: I just got carpal tunnel!
--😄 Preferred Stack: Mongoose Express React Node (MERN)
+- 😄 Preferred Stack: Mongoose Express React Node (MERN)
 
 <!--
 **majd64/majd64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
