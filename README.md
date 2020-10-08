@@ -1,6 +1,8 @@
 ### Hi there 👋
-🔭 I'm currently learning back end web dev w/ Node.js
-
+- 🔭 I’m currently working on a super secret web app to be launched in November 
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on literally anything! Lemme know if you wanna do something!
+- ⚡ Fun fact: I just got carpal tunnel!
 
 <!--
 **majd64/majd64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
