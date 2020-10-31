@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning React.js
 - 😄 Preferred Stack: Mongoose Express React Node (MERN)
 
+The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.
+
 <!--
 **majd64/majd64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
