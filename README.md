@@ -1,8 +1,3 @@
-### Hi there 👋
-- 🔭 I’m currently working on a super secret web app to be launched in November 
-- 🌱 I’m currently learning React.js
-- 😄 Preferred Stack: Mongoose Express React Node (MERN)
-
 00000000   01 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
 00000010   00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
 00000020   00 00 00 00 3B A3 ED FD  7A 7B 12 B2 7A C7 2C 3E   ....;£íýz{.²zÇ,>
